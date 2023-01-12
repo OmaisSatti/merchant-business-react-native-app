@@ -7,6 +7,6 @@ merchant business complete application using react native
 [react-native-responsive-fontsize](https://www.npmjs.com/package/react-native-responsive-fontsize)  
 [react-native-responsive-screen](https://www.npmjs.com/package/react-native-responsive-screen)  
 [react-navigation/native](https://reactnavigation.org/docs/getting-started/) 
-[react-native-bouncy-checkbox](https://www.npmjs.com/package/react-native-bouncy-checkbox)
-[react-native-maps](https://www.npmjs.com/package/react-native-maps)
-[]()
+[react-native-bouncy-checkbox](https://www.npmjs.com/package/react-native-bouncy-checkbox)  
+[react-native-maps](https://www.npmjs.com/package/react-native-maps)  
+
